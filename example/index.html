@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Iceberg Chart demo</title>
+  </head>
+  <body>
+    <div id="iceberg-container">
+    </div>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.3.0/d3.min.js"></script>
+    <script type="text/javascript" src="../src/IcebergChart.js"></script>
+    <script type="text/javascript">
+      window.onload = function () {
+        d3.json("data.json", function (err, obj) {
+          icebergChart = new IcebergChart('#iceberg-container', obj);
+          console.log(icebergChart);
+        });
+      };
+    </script>
+  </body>
+</html>

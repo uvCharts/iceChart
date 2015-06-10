@@ -1,0 +1,42 @@
+{
+  "pastSnapshots": [
+    { "weekOf": "Week a", "stage1Realized": -67, "stage2Realized": -41, "stage3Realized": -56, "stage4Realized": 69, "stage5Realized": 47, "stage1Unrealized": -49, "stage2Unrealized": -29, "stage3Unrealized": -63, "stage4Unrealized": 93, "stage5Unrealized": 83, "noOfInitiatives": 51 },
+    { "weekOf": "Week b", "stage1Realized": -45, "stage2Realized": -61, "stage3Realized": -92, "stage4Realized": 49, "stage5Realized": 35, "stage1Unrealized": -73, "stage2Unrealized": -90, "stage3Unrealized": -98, "stage4Unrealized": 92, "stage5Unrealized": 47, "noOfInitiatives": 110 },
+    { "weekOf": "Week c", "stage1Realized": -56, "stage2Realized": -87, "stage3Realized": -30, "stage4Realized": 37, "stage5Realized": 38, "stage1Unrealized": -64, "stage2Unrealized": -37, "stage3Unrealized": -70, "stage4Unrealized": 84, "stage5Unrealized": 84, "noOfInitiatives": 34 },
+    { "weekOf": "Week d", "stage1Realized": -28, "stage2Realized": -42, "stage3Realized": -48, "stage4Realized": 45, "stage5Realized": 42, "stage1Unrealized": -34, "stage2Unrealized": -49, "stage3Unrealized": -76, "stage4Unrealized": 86, "stage5Unrealized": 54, "noOfInitiatives": 61 },
+    { "weekOf": "Week e", "stage1Realized": -67, "stage2Realized": -32, "stage3Realized": -78, "stage4Realized": 35, "stage5Realized": 91, "stage1Unrealized": -31, "stage2Unrealized": -28, "stage3Unrealized": -73, "stage4Unrealized": 53, "stage5Unrealized": 56, "noOfInitiatives": 61 },
+    { "weekOf": "Week f", "stage1Realized": -84, "stage2Realized": -80, "stage3Realized": -72, "stage4Realized": 98, "stage5Realized": 52, "stage1Unrealized": -79, "stage2Unrealized": -61, "stage3Unrealized": -62, "stage4Unrealized": 64, "stage5Unrealized": 77, "noOfInitiatives": 102 },
+    { "weekOf": "Week g", "stage1Realized": -79, "stage2Realized": -25, "stage3Realized": -67, "stage4Realized": 62, "stage5Realized": 53, "stage1Unrealized": -68, "stage2Unrealized": -96, "stage3Unrealized": -42, "stage4Unrealized": 63, "stage5Unrealized": 46, "noOfInitiatives": 91 },
+    { "weekOf": "Week h", "stage1Realized": -49, "stage2Realized": -42, "stage3Realized": -35, "stage4Realized": 99, "stage5Realized": 91, "stage1Unrealized": -74, "stage2Unrealized": -81, "stage3Unrealized": -38, "stage4Unrealized": 83, "stage5Unrealized": 91, "noOfInitiatives": 43 },
+    { "weekOf": "Week i", "stage1Realized": -66, "stage2Realized": -95, "stage3Realized": -82, "stage4Realized": 53, "stage5Realized": 70, "stage1Unrealized": -69, "stage2Unrealized": -88, "stage3Unrealized": -27, "stage4Unrealized": 29, "stage5Unrealized": 54, "noOfInitiatives": 80 },
+    { "weekOf": "Week j", "stage1Realized": -34, "stage2Realized": -27, "stage3Realized": -76, "stage4Realized": 72, "stage5Realized": 95, "stage1Unrealized": -53, "stage2Unrealized": -40, "stage3Unrealized": -89, "stage4Unrealized": 78, "stage5Unrealized": 37, "noOfInitiatives": 73 },
+    { "weekOf": "Week k", "stage1Realized": -85, "stage2Realized": -33, "stage3Realized": -35, "stage4Realized": 26, "stage5Realized": 83, "stage1Unrealized": -94, "stage2Unrealized": -28, "stage3Unrealized": -48, "stage4Unrealized": 25, "stage5Unrealized": 30, "noOfInitiatives": 96 },
+    { "weekOf": "Week l", "stage1Realized": -80, "stage2Realized": -92, "stage3Realized": -40, "stage4Realized": 90, "stage5Realized": 25, "stage1Unrealized": -73, "stage2Unrealized": -94, "stage3Unrealized": -47, "stage4Unrealized": 36, "stage5Unrealized": 44, "noOfInitiatives": 93 },
+    { "weekOf": "Week m", "stage1Realized": -76, "stage2Realized": -35, "stage3Realized": -69, "stage4Realized": 98, "stage5Realized": 35, "stage1Unrealized": -76, "stage2Unrealized": -90, "stage3Unrealized": -59, "stage4Unrealized": 33, "stage5Unrealized": 28, "noOfInitiatives": 100 },
+    { "weekOf": "Week n", "stage1Realized": -54, "stage2Realized": -77, "stage3Realized": -83, "stage4Realized": 57, "stage5Realized": 58, "stage1Unrealized": -79, "stage2Unrealized": -69, "stage3Unrealized": -35, "stage4Unrealized": 73, "stage5Unrealized": 79, "noOfInitiatives": 69 },
+    { "weekOf": "Week o", "stage1Realized": -40, "stage2Realized": -53, "stage3Realized": -90, "stage4Realized": 33, "stage5Realized": 55, "stage1Unrealized": -55, "stage2Unrealized": -78, "stage3Unrealized": -87, "stage4Unrealized": 47, "stage5Unrealized": 45, "noOfInitiatives": 63 },
+    { "weekOf": "Week p", "stage1Realized": -68, "stage2Realized": -38, "stage3Realized": -95, "stage4Realized": 37, "stage5Realized": 41, "stage1Unrealized": -87, "stage2Unrealized": -51, "stage3Unrealized": -86, "stage4Unrealized": 25, "stage5Unrealized": 29, "noOfInitiatives": 98 },
+    { "weekOf": "Week q", "stage1Realized": -37, "stage2Realized": -68, "stage3Realized": -89, "stage4Realized": 69, "stage5Realized": 65, "stage1Unrealized": -71, "stage2Unrealized": -65, "stage3Unrealized": -32, "stage4Unrealized": 51, "stage5Unrealized": 99, "noOfInitiatives": 98 },
+    { "weekOf": "Week r", "stage1Realized": -54, "stage2Realized": -56, "stage3Realized": -88, "stage4Realized": 52, "stage5Realized": 49, "stage1Unrealized": -63, "stage2Unrealized": -55, "stage3Unrealized": -34, "stage4Unrealized": 29, "stage5Unrealized": 49, "noOfInitiatives": 91 }
+  ],
+  "futureMonths": [
+    { "monthOf": "Month A", "pipelineValue": 584, "targetValue": 652 },
+    { "monthOf": "Month B", "pipelineValue": 432, "targetValue": 312 },
+    { "monthOf": "Month C", "pipelineValue": 413, "targetValue": 427 },
+    { "monthOf": "Month D", "pipelineValue": 592, "targetValue": 439 },
+    { "monthOf": "Month E", "pipelineValue": 405, "targetValue": 525 },
+    { "monthOf": "Month F", "pipelineValue": 430, "targetValue": 592 },
+    { "monthOf": "Month G", "pipelineValue": 400, "targetValue": 667 },
+    { "monthOf": "Month H", "pipelineValue": 531, "targetValue": 595 },
+    { "monthOf": "Month I", "pipelineValue": 526, "targetValue": 258 },
+    { "monthOf": "Month J", "pipelineValue": 579, "targetValue": 603 },
+    { "monthOf": "Month K", "pipelineValue": 500, "targetValue": 647 },
+    { "monthOf": "Month L", "pipelineValue": 505, "targetValue": 721 },
+    { "monthOf": "Month M", "pipelineValue": 485, "targetValue": 307 },
+    { "monthOf": "Month N", "pipelineValue": 458, "targetValue": 448 },
+    { "monthOf": "Month O", "pipelineValue": 523, "targetValue": 729 },
+    { "monthOf": "Month P", "pipelineValue": 561, "targetValue": 480 },
+    { "monthOf": "Month Q", "pipelineValue": 568, "targetValue": 333 },
+    { "monthOf": "Month R", "pipelineValue": 486, "targetValue": 681 }
+  ]
+}
