@@ -1,0 +1,367 @@
+"icebergChartXml": {
+    "summary": {
+        "reportLevel": "Program",
+        "benefitType": "All",
+        "project": "project 2",
+        "subProject": "sub project1"
+    },
+    "icebergBenefitType": "All",
+
+    "futureMonths": [
+        {
+            "monthOf": "2015-02-28",
+            "pipelineValue": "18.9781990000",
+            "targetValue": "18.9781990000"
+        },
+        {
+            "monthOf": "2015-03-08",
+            "pipelineValue": "19.1378350000",
+            "targetValue": "19.1378350000"
+        },
+        {
+            "monthOf": "2015-03-14",
+            "pipelineValue": "19.1378350000",
+            "targetValue": "19.1378350000"
+        },
+        {
+            "monthOf": "2015-03-21",
+            "pipelineValue": "19.1779350000",
+            "targetValue": "19.1779350000"
+        },
+        {
+            "monthOf": "2015-03-28",
+            "pipelineValue": "28.3477076000",
+            "targetValue": "28.3477076000"
+        },
+        {
+            "monthOf": "2015-04-04",
+            "pipelineValue": "45.0780278000",
+            "targetValue": "45.0780278000"
+        },
+        {
+            "monthOf": "2015-04-11",
+            "pipelineValue": "51.8120388000",
+            "targetValue": "51.8120388000"
+        },
+        {
+            "monthOf": "2015-04-18",
+            "pipelineValue": "73.4875742000",
+            "targetValue": "73.4875742000"
+        },
+        {
+            "monthOf": "2015-04-25",
+            "pipelineValue": "77.9529098000",
+            "targetValue": "77.9529098000"
+        },
+        {
+            "monthOf": "2015-05-02",
+            "pipelineValue": "92.4977094000",
+            "targetValue": "92.4977094000"
+        },
+        {
+            "monthOf": "2015-05-09",
+            "pipelineValue": "115.0980850000",
+            "targetValue": "115.0980850000"
+        },
+        {
+            "monthOf": "2015-05-16",
+            "pipelineValue": "125.5982830000",
+            "targetValue": "125.5982830000"
+        },
+        {
+            "monthOf": "2015-05-23",
+            "pipelineValue": "118.0621320000",
+            "targetValue": "118.0621320000"
+        },
+        {
+            "monthOf": "2015-05-30",
+            "pipelineValue": "85.2670260000",
+            "targetValue": "85.2670260000"
+        },
+        {
+            "monthOf": "2015-06-06",
+            "pipelineValue": "102.2682744000",
+            "targetValue": "102.2682744000"
+        },
+        {
+            "monthOf": "2015-06-13",
+            "pipelineValue": "102.2682744000",
+            "targetValue": "102.2682744000"
+        },
+        {
+            "monthOf": "2015-06-20",
+            "pipelineValue": "102.2682744000",
+            "targetValue": "102.2682744000"
+        },
+        {
+            "monthOf": "2015-06-27",
+            "pipelineValue": "102.2682744000",
+            "targetValue": "102.2682744000"
+        },
+        {
+            "monthOf": "2015-07-04",
+            "pipelineValue": "105.3716748000",
+            "targetValue": "105.3716748000"
+        },
+        {
+            "monthOf": "2015-07-11",
+            "pipelineValue": "105.3716748000",
+            "targetValue": "105.3716748000"
+        },
+        {
+            "monthOf": "2015-07-18",
+            "pipelineValue": "105.3716748000",
+            "targetValue": "105.3716748000"
+        },
+        {
+            "monthOf": "2015-07-25",
+            "pipelineValue": "105.3716748000",
+            "targetValue": "105.3716748000"
+        },
+        {
+            "monthOf": "2015-08-01",
+            "pipelineValue": "109.3215708000",
+            "targetValue": "109.3215708000"
+        },
+        {
+            "monthOf": "2015-08-08",
+            "pipelineValue": "109.3215708000",
+            "targetValue": "109.3215708000"
+        },
+        {
+            "monthOf": "2015-08-15",
+            "pipelineValue": "109.3215708000",
+            "targetValue": "109.3215708000"
+        },
+        {
+            "monthOf": "2015-08-22",
+            "pipelineValue": "109.3215708000",
+            "targetValue": "109.3215708000"
+        },
+        {
+            "monthOf": "2015-08-29",
+            "pipelineValue": "109.3215708000",
+            "targetValue": "109.3215708000"
+        },
+        {
+            "monthOf": "2015-09-05",
+            "pipelineValue": "108.4112748000",
+            "targetValue": "108.4112748000"
+        },
+        {
+            "monthOf": "2015-09-12",
+            "pipelineValue": "108.4112748000",
+            "targetValue": "108.4112748000"
+        },
+        {
+            "monthOf": "2015-09-19",
+            "pipelineValue": "108.4112748000",
+            "targetValue": "108.4112748000"
+        },
+        {
+            "monthOf": "2015-09-26",
+            "pipelineValue": "108.4112748000",
+            "targetValue": "108.4112748000"
+        },
+        {
+            "monthOf": "2015-10-03",
+            "pipelineValue": "120.0960708000",
+            "targetValue": "120.0960708000"
+        },
+        {
+            "monthOf": "2015-10-10",
+            "pipelineValue": "120.0960708000",
+            "targetValue": "120.0960708000"
+        },
+        {
+            "monthOf": "2015-10-17",
+            "pipelineValue": "120.0960708000",
+            "targetValue": "120.0960708000"
+        },
+        {
+            "monthOf": "2015-10-24",
+            "pipelineValue": "120.0960708000",
+            "targetValue": "120.0960708000"
+        },
+        {
+            "monthOf": "2015-10-31",
+            "pipelineValue": "120.0960708000",
+            "targetValue": "120.0960708000"
+        }
+    ],
+
+    "icebergProject": "project 2",
+    "categoriesCount": 36,
+    "charTitle": "Value Delivery Summary for  \"Program\"",
+    "pastSnapshots": [
+        {
+            "stage5Realized": "16.4182620000",
+            "stage5Unrealized": "-10.7395800000",
+            "noOfInitiatives": "204",
+            "stage4Realized": "0.0000000000",
+            "stage4Unrealized": "-9.0099960000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-41.9048160000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-63.7955270000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-58.8222000000",
+            "weekOf": "2015-02-28"
+        },
+        {
+            "stage5Realized": "16.4182620000",
+            "stage5Unrealized": "-10.7395800000",
+            "noOfInitiatives": "218",
+            "stage4Realized": "0.0000000000",
+            "stage4Unrealized": "-9.2019960000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-419.3009000000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-59.2435270000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-80.1287100000",
+            "weekOf": "2015-03-08"
+        },
+        {
+            "stage5Realized": "16.4182620000",
+            "stage5Unrealized": "-10.7395800000",
+            "noOfInitiatives": "231",
+            "stage4Realized": "0.0000000000",
+            "stage4Unrealized": "-23.9139960000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-426.1164080000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-55.3151070000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-124.3707000000",
+            "weekOf": "2015-03-14"
+        },
+        {
+            "stage5Realized": "18.8290620000",
+            "stage5Unrealized": "-11.0887800000",
+            "noOfInitiatives": "236",
+            "stage4Realized": "0.0000000000",
+            "stage4Unrealized": "-5.4579960000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-53.5742080000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-74.1474470000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-116.4906690000",
+            "weekOf": "2015-03-21"
+        },
+        {
+            "stage5Realized": "20.9048220000",
+            "stage5Unrealized": "-11.0887800000",
+            "noOfInitiatives": "322",
+            "stage4Realized": "21.3841298000",
+            "stage4Unrealized": "-5.4579960000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-54.5662080000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-75.3064470000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-101.5926690000",
+            "weekOf": "2015-03-28"
+        },
+        {
+            "stage5Realized": "20.9047920000",
+            "stage5Unrealized": "-11.0887200000",
+            "noOfInitiatives": "359",
+            "stage4Realized": "21.4615140000",
+            "stage4Unrealized": "-6.9662760000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-31.0788960000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-89.9729090000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-132.3464920000",
+            "weekOf": "2015-04-04"
+        },
+        {
+            "stage5Realized": "20.9047920000",
+            "stage5Unrealized": "-11.8325280000",
+            "noOfInitiatives": "354",
+            "stage4Realized": "22.4715180000",
+            "stage4Unrealized": "-28.8963480000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-51.8363980000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-81.5002390000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-112.5471790000",
+            "weekOf": "2015-04-11"
+        },
+        {
+            "stage5Realized": "23.3654880000",
+            "stage5Unrealized": "-11.9253240000",
+            "noOfInitiatives": "310",
+            "stage4Realized": "22.6864860000",
+            "stage4Unrealized": "-39.7428960000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-47.5933980000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-101.3577774000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-96.0444210000",
+            "weekOf": "2015-04-18"
+        },
+        {
+            "stage5Realized": "27.3394440000",
+            "stage5Unrealized": "-16.3778400000",
+            "noOfInitiatives": "311",
+            "stage4Realized": "31.9655880000",
+            "stage4Unrealized": "-34.6717920000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-35.5733980000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-89.7799814000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-88.6453230000",
+            "weekOf": "2015-04-25"
+        },
+        {
+            "stage5Realized": "28.3511640000",
+            "stage5Unrealized": "-15.3661200000",
+            "noOfInitiatives": "328",
+            "stage4Realized": "29.9495880000",
+            "stage4Unrealized": "-53.7271920000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-40.6833980000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-100.4741814000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-58.3735230000",
+            "weekOf": "2015-05-02"
+        },
+        {
+            "stage5Realized": "28.3511640000",
+            "stage5Unrealized": "-15.3661200000",
+            "noOfInitiatives": "341",
+            "stage4Realized": "30.3095880000",
+            "stage4Unrealized": "-56.7808680000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-33.0833980000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-100.7664114000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-65.1015230000",
+            "weekOf": "2015-05-09"
+        },
+        {
+            "stage5Realized": "32.4933600000",
+            "stage5Unrealized": "-17.0760240000",
+            "noOfInitiatives": "354",
+            "stage4Realized": "48.7379520000",
+            "stage4Unrealized": "-44.4328680000",
+            "stage1Realized": "0.0000000000",
+            "stage1Unrealized": "-31.1833980000",
+            "stage3Realized": "0.0000000000",
+            "stage3Unrealized": "-107.8009710000",
+            "stage2Realized": "0.0000000000",
+            "stage2Unrealized": "-67.1645230000",
+            "weekOf": "2015-05-16"
+        }
+    ],
+    "icebergSubProject": "sub project1"
+}

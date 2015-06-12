@@ -119,7 +119,7 @@ var IcebergChart = (function (d3) {
       .orient('bottom')
 
     axes.hor.axis = axes.hor.group.append('g')
-      .attr('transform', 'translate(0, 50)')
+      .attr('transform', 'translate(0, 60)')
       .style('font-family', 'Arial')
       .style('font-size', 10)
       .style('font-weight', 'normal')
@@ -133,7 +133,7 @@ var IcebergChart = (function (d3) {
 
     /* Initiatives table */
     table = panel.append('g')
-      .attr('transform', 'translate(0, 360)')
+      .attr('transform', 'translate(0, 365)')
       .classed('initiatives-table', true);
 
     table.selectAll('g').data(data.pastSnapshots).enter()
@@ -143,9 +143,10 @@ var IcebergChart = (function (d3) {
       })
         .append('text')
         .text(function (d) { return d.noOfInitiatives; })
-        .attr('transform', 'rotate(315, 4, -10)')
+        .attr('transform', 'rotate(315, 4, -16)')
         .attr('font-family', 'Arial')
         .style('fill', 'rgb(232, 81, 0)')
+        .attr('text-anchor', 'middle')
         /*.attr('x', function (d) { return axes.hor.scale(d.weekOf) })*/
         .attr('font-size', '10');
 
@@ -153,7 +154,7 @@ var IcebergChart = (function (d3) {
       .attr('font-family', 'Arial')
       .attr('font-size', '10')
       .attr('dx', '-75')
-      .attr('dy', '-3')
+      .attr('dy', '-1')
       .style('fill', 'rgb(232, 81, 0)');
 
     /* Stacked bars for past snapshots */
@@ -177,7 +178,7 @@ var IcebergChart = (function (d3) {
         .attr('x', function (d) {return axes.hor.scale(d.name); })
         .attr('y', function (d) {
           var verticalFix = axes.ver.scale(0) - axes.ver.scale(total);
-          total += Math.abs(Math.abs(data.pastSnapshots[idx][d + 'Realized']) + Math.abs(data.pastSnapshots[idx][d + 'Unrealized']));
+          total += Math.abs(data.pastSnapshots[idx][d + 'Realized'] + data.pastSnapshots[idx][d + 'Unrealized']);
           return verticalFix;
         })
         .style('fill', function (d, i) {
