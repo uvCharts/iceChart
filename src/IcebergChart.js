@@ -11,7 +11,7 @@ var IcebergChart = (function (d3) {
       top: 20,
       bottom: 100,
       left: 80,
-      right: 150
+      right: 40
     };
 
     // Chart components
@@ -103,7 +103,7 @@ var IcebergChart = (function (d3) {
       .call(axes.ver.func);
 
     axes.ver.group.selectAll('line').style('stroke', '#333').style('opacity', 0.3);
-    axes.ver.group.selectAll('text').style('fill', '#888');
+    axes.ver.group.selectAll('text').style('fill', '#444744');
 
     axes.hor.group = panel.append('g').classed('chart-haxis', true)
       .attr('transform', 'translate(0,' + dimensions.height + ')')
@@ -128,7 +128,7 @@ var IcebergChart = (function (d3) {
     axes.hor.axis.selectAll('path').style('fill','none');
     axes.hor.axis.selectAll('text')
       .attr('transform', 'rotate(270, -10, 8)')
-      .style('fill', '#888')
+      .style('fill', '#444744')
       .style('text-anchor', 'start');
 
     /* Initiatives table */
@@ -143,9 +143,9 @@ var IcebergChart = (function (d3) {
       })
         .append('text')
         .text(function (d) { return d.noOfInitiatives; })
-        .attr('transform', 'rotate(315, 5, -12)')
+        .attr('transform', 'rotate(315, 4, -10)')
         .attr('font-family', 'Arial')
-        .style('fill', '#555')
+        .style('fill', 'rgb(232, 81, 0)')
         /*.attr('x', function (d) { return axes.hor.scale(d.weekOf) })*/
         .attr('font-size', '10');
 
@@ -154,7 +154,7 @@ var IcebergChart = (function (d3) {
       .attr('font-size', '10')
       .attr('dx', '-75')
       .attr('dy', '-3')
-      .style('fill', '#333');
+      .style('fill', 'rgb(232, 81, 0)');
 
     /* Stacked bars for past snapshots */
     var barGroupsWrapper = panel.append('g').classed('past-snapshots', true)
@@ -229,7 +229,7 @@ var IcebergChart = (function (d3) {
         .style('stroke-width', 1)
         .style('stroke-dasharray', function () {
           if (idx === length - 1) {
-            return "8 2";
+            return "4 2";
           }
           return "none";
         });
