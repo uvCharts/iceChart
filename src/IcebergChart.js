@@ -226,6 +226,7 @@ var IcebergChart = (function (d3) {
       linegroup.path.append('path')
         .attr('d', linegroup.func)
         .style('fill', 'none')
+        .style('opacity', '0.4')
         .style('stroke', '#444744')
         .style('stroke-width', 1)
         .style('stroke-dasharray', function () {

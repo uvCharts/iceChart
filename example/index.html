@@ -11,7 +11,7 @@
     <script type="text/javascript" src="../src/IcebergChart.js"></script>
     <script type="text/javascript">
       window.onload = function () {
-        d3.json("icebergData.json", function (err, obj) {
+        d3.json("iceberg.json", function (err, obj) {
           icebergChart = new IcebergChart('#iceberg-container', obj);
           console.log(icebergChart);
         });
